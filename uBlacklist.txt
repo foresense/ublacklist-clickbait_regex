@@ -9,4 +9,4 @@ title/^this\sis\swhy/i
 title/the\s\d+\sbest/i
 title/the\stop\s\d+/i
 title/they\sdon[’']t\swant\syou\sto\sknow/i
-title/\d+.*every.*should\sconsider/i
+title/\d+\s.*every\s.*should\sconsider/i
