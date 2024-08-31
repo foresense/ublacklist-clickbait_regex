@@ -1,2 +1,3 @@
-# ublacklist-clickbait_regex
-Filter websites with clickbait titles using uBlacklist
+# uBlacklist Clickbait Regular Expression filters
+
+Filter search engine results of sites with clickbait titles using uBlacklist
