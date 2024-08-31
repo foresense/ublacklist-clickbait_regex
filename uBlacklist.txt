@@ -1,0 +1,11 @@
+---
+name: Clickbait Regular Expression Filters
+homepage: https://github.com/foresense/ublacklist-clickbait_regex
+---
+title/^(the\s)?(top\s)?\d+\s(best|differences|incredible|interesting|surprising|things|useful|ways)/i
+title/^(the\s)?(best|top)/i
+title/^best\sand\sworst/i
+title/^this\sis\swhy/i
+title/the\sbest\s\d+/i
+title/the\stop\s\d+/i
+title/they\sdon[’']t\swant\syou\sto\sknow/i
